@@ -72,3 +72,4 @@ This task successfully demonstrated the implementation of a Convolutional Neural
 
 ##OUTPUT
 
+<img width="868" height="394" alt="Image" src="https://github.com/user-attachments/assets/363e58b5-70f3-46a9-a3b2-e032b491a2e0" />
